@@ -1,6 +1,6 @@
 # Karaelma Metronom
 
-**[Karaelma Metronom](https://bariskaraelma-gif.github.io/metronom/)**: tarayıcıda çalışan ücretsiz, sade bir online metronom. Tek dosya, kurulum gerektirmez: `index.html` dosyasını açman yeterli.
+**[Karaelma Metronom](https://bariskaraelma.github.io/metronom/)**: tarayıcıda çalışan ücretsiz, sade bir online metronom. Tek dosya, kurulum gerektirmez: `index.html` dosyasını açman yeterli.
 
 ## Özellikler
 
